@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0009-palindrome-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya01778/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
