@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya01778/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
