@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/aditya01778/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/aditya01778/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/aditya01778/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
