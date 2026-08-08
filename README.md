@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/aditya01778/LeetCode_Solution/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -84,5 +86,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
