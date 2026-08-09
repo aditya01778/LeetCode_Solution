@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aditya01778/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditya01778/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0443-string-compression](https://github.com/aditya01778/LeetCode_Solution/tree/master/0443-string-compression) |
 ## Math
 |  |
@@ -88,4 +90,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditya01778/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
