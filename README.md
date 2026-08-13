@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/aditya01778/LeetCode_Solution/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aditya01778/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 ## Sorting
