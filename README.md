@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditya01778/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0443-string-compression](https://github.com/aditya01778/LeetCode_Solution/tree/master/0443-string-compression) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditya01778/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
