@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/aditya01778/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/aditya01778/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/aditya01778/LeetCode_Solution/tree/master/0066-plus-one) |
@@ -111,4 +112,12 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aditya01778/LeetCode_Solution/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aditya01778/LeetCode_Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
