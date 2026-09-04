@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/aditya01778/LeetCode_Solution/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aditya01778/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
@@ -36,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya01778/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/aditya01778/LeetCode_Solution/tree/master/0443-string-compression) |
 ## Matrix
@@ -125,4 +128,12 @@
 | ------- |
 | [0051-n-queens](https://github.com/aditya01778/LeetCode_Solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0052-n-queens-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
