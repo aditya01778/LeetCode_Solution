@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
+| [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
