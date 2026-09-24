@@ -106,6 +106,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aditya01778/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
