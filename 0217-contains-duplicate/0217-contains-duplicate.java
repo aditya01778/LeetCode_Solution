@@ -1,9 +1,16 @@
+import java.util.Arrays;
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer> seen = new HashSet<>();
-        for (int num : nums) {
-            if (!seen.add(num)) {
-                return true; // add() returns false if the element was already in the set
+        int lp = 0;
+        int rp = 1;
+        Arrays.sort(nums);
+        while(rp<nums.length) {
+            if(nums[lp] == nums[rp]) {
+                return true;
+            }
+            else{
+                lp++;
+                rp++;
             }
         }
         return false;
