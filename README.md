@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
@@ -35,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/aditya01778/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya01778/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
@@ -57,6 +59,7 @@
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya01778/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/aditya01778/LeetCode_Solution/tree/master/0443-string-compression) |
 ## Matrix
 |  |
@@ -102,6 +105,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
 ## Recursion
 |  |
@@ -125,6 +129,7 @@
 | [0049-group-anagrams](https://github.com/aditya01778/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
