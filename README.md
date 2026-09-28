@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/aditya01778/LeetCode_Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/aditya01778/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aditya01778/LeetCode_Solution/tree/master/0049-group-anagrams) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/aditya01778/LeetCode_Solution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
