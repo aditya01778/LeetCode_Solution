@@ -58,6 +58,7 @@
 | [0027-remove-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya01778/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/aditya01778/LeetCode_Solution/tree/master/0443-string-compression) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aditya01778/LeetCode_Solution/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,4 +168,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
