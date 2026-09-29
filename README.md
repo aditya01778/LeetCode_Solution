@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aditya01778/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
@@ -62,6 +63,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aditya01778/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/aditya01778/LeetCode_Solution/tree/master/0443-string-compression) |
 ## Matrix
@@ -109,6 +111,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya01778/LeetCode_Solution/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
 ## Recursion
@@ -128,6 +131,7 @@
 | [0136-single-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/aditya01778/LeetCode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -172,4 +176,12 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
