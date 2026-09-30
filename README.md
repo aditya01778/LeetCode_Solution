@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/aditya01778/LeetCode_Solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya01778/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 | [0013-roman-to-integer](https://github.com/aditya01778/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aditya01778/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aditya01778/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya01778/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -184,4 +188,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
