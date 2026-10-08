@@ -91,6 +91,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/aditya01778/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aditya01778/LeetCode_Solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/aditya01778/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditya01778/LeetCode_Solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aditya01778/LeetCode_Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya01778/LeetCode_Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -175,6 +176,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya01778/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya01778/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
