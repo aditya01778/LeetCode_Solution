@@ -31,6 +31,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aditya01778/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0242-valid-anagram](https://github.com/aditya01778/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -222,4 +225,24 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya01778/LeetCode_Solution/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
