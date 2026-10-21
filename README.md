@@ -27,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aditya01778/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya01778/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
@@ -187,10 +188,12 @@
 | [0020-valid-parentheses](https://github.com/aditya01778/LeetCode_Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
