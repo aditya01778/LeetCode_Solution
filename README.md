@@ -38,6 +38,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
