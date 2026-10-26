@@ -37,6 +37,7 @@
 | [1470-shuffle-the-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -137,6 +138,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0268-missing-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya01778/LeetCode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Trie
 |  |
 | ------- |
