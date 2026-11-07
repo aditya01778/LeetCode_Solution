@@ -37,6 +37,7 @@
 | [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1882-process-tasks-using-servers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
