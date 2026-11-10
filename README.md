@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/aditya01778/LeetCode_Solution/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya01778/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya01778/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0136-single-number) |
@@ -51,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/aditya01778/LeetCode_Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aditya01778/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/aditya01778/LeetCode_Solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/aditya01778/LeetCode_Solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aditya01778/LeetCode_Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya01778/LeetCode_Solution/tree/master/0217-contains-duplicate) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/aditya01778/LeetCode_Solution/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/aditya01778/LeetCode_Solution/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
