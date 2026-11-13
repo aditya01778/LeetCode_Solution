@@ -43,6 +43,7 @@
 | [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya01778/LeetCode_Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya01778/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,12 +213,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/aditya01778/LeetCode_Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aditya01778/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0503-next-greater-element-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya01778/LeetCode_Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya01778/LeetCode_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0503-next-greater-element-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -287,6 +291,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya01778/LeetCode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya01778/LeetCode_Solution/tree/master/0232-implement-queue-using-stacks) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Ordered Set
 |  |
 | ------- |
@@ -295,4 +300,12 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya01778/LeetCode_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
