@@ -38,6 +38,7 @@
 | [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aditya01778/LeetCode_Solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
@@ -79,6 +80,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya01778/LeetCode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya01778/LeetCode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya01778/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya01778/LeetCode_Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya01778/LeetCode_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -228,6 +231,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aditya01778/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
