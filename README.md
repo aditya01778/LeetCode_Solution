@@ -108,6 +108,7 @@
 | [0059-spiral-matrix-ii](https://github.com/aditya01778/LeetCode_Solution/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aditya01778/LeetCode_Solution/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aditya01778/LeetCode_Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0242-valid-anagram](https://github.com/aditya01778/LeetCode_Solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya01778/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/aditya01778/LeetCode_Solution/tree/master/0443-string-compression) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aditya01778/LeetCode_Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
