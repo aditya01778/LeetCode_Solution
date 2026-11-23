@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/aditya01778/LeetCode_Solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/0912-sort-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1470-shuffle-the-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -134,6 +135,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya01778/LeetCode_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya01778/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya01778/LeetCode_Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aditya01778/LeetCode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/3364-minimum-positive-sum-subarray) |
@@ -295,6 +298,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya01778/LeetCode_Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya01778/LeetCode_Solution/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -317,4 +321,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
