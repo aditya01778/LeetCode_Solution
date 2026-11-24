@@ -46,6 +46,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya01778/LeetCode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya01778/LeetCode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya01778/LeetCode_Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -137,12 +138,14 @@
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya01778/LeetCode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya01778/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya01778/LeetCode_Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya01778/LeetCode_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya01778/LeetCode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya01778/LeetCode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Game Theory
 |  |
@@ -201,6 +204,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aditya01778/LeetCode_Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya01778/LeetCode_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya01778/LeetCode_Solution/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya01778/LeetCode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aditya01778/LeetCode_Solution/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
@@ -325,4 +329,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aditya01778/LeetCode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/aditya01778/LeetCode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
