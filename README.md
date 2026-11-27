@@ -51,6 +51,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya01778/LeetCode_Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aditya01778/LeetCode_Solution/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya01778/LeetCode_Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0509-fibonacci-number](https://github.com/aditya01778/LeetCode_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aditya01778/LeetCode_Solution/tree/master/0877-stone-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya01778/LeetCode_Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya01778/LeetCode_Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya01778/LeetCode_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aditya01778/LeetCode_Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Segment Tree
 |  |
 | ------- |
